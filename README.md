@@ -144,11 +144,10 @@ Each visualization includes:
 
 # 📊 Key Visualizations
 
-## 1️⃣ Top Countries
 
 ## 1️⃣ Top Countries
 
-![Top Countries](images/top_countries.png)
+![Top Countries](Images/Top_Ten_Countries.png)
 
 ### Observation
 
