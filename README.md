@@ -238,7 +238,7 @@ Prioritize producing movies within this preferred duration range.
 
 ## 6️⃣ Movie Duration Boxplot
 
-![Top Countries](Images/Movies_duration_boxplot.png)
+![Top Countries](Images/Movie_duration_boxplot.png)
 
 ### Observation
 
