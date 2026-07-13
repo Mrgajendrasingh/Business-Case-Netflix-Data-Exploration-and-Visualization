@@ -66,7 +66,7 @@ Netflix wants to answer the following questions:
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Colab Notebook
 
 ---
 
@@ -166,8 +166,7 @@ Continue investing in U.S. productions while expanding original content in India
 
 ## 2️⃣ Top Genres
 
-![Top Genres](<img width="962" height="406" alt="image" src="https://github.com/user-attachments/assets/6b55ff32-e7f9-4f6b-ae1a-e6010cd969bd" />
-)
+![Top Countries](Images/Top_Ten_Genre.png)
 
 ### Observation
 
@@ -185,8 +184,7 @@ Increase investment in regional and multilingual productions.
 
 ## 3️⃣ Movies vs TV Shows
 
-![Movies vs TV Shows](<img width="615" height="337" alt="image" src="https://github.com/user-attachments/assets/c51cb5a1-719c-413c-b76e-b88f1507ef22" />
-)
+![Top Countries](Images/Movies_vs_TV_Shows.png)
 
 ### Observation
 
@@ -204,8 +202,7 @@ Continue investing in movies while selectively expanding high-performing TV Show
 
 ## 4️⃣ Content Added Per Year
 
-![Content Added](<img width="962" height="422" alt="image" src="https://github.com/user-attachments/assets/db2ac998-fa07-4d11-9d0f-ad7300e19a46" />
-)
+![Top Countries](Countent_added_per_year.png)
 
 ### Observation
 
@@ -223,8 +220,7 @@ Study and replicate successful acquisition strategies used during 2019.
 
 ## 5️⃣ Movie Duration Distribution
 
-![Movie Duration](<img width="856" height="397" alt="image" src="https://github.com/user-attachments/assets/2ecd31f0-d855-4f29-bd52-ae837cb80e9c" />
-)
+![Top Countries](Images/Movies_duratio_distribution.png)
 
 ### Observation
 
@@ -242,8 +238,7 @@ Prioritize producing movies within this preferred duration range.
 
 ## 6️⃣ Movie Duration Boxplot
 
-![Movie Duration Boxplot](<img width="750" height="332" alt="image" src="https://github.com/user-attachments/assets/59bcb29d-bbfb-4519-bacc-b3fc1d90e2b7" />
-)
+![Top Countries](Images/Movies_duration_boxplot.png)
 
 ### Observation
 
@@ -261,8 +256,7 @@ Maintain a balanced mix of standard and niche-length content.
 
 ## 7️⃣ Rating Distribution
 
-![Ratings](<img width="892" height="407" alt="image" src="https://github.com/user-attachments/assets/0bf3a105-1c88-4969-9fcf-00eb92970f31" />
-)
+![Top Countries](Rating_distribution.png)
 
 ### Observation
 
