@@ -146,8 +146,11 @@ Each visualization includes:
 
 ## 1️⃣ Top Countries
 
-![Top Countries](<img width="907" height="410" alt="image" src="https://github.com/user-attachments/assets/61f8bb9e-2777-4ac2-85b0-a63a82387858" />
-)
+## 1️⃣ Top Countries
+
+<p align="center">
+  <img src="images/top_countries.png" width="900">
+</p>
 
 ### Observation
 
