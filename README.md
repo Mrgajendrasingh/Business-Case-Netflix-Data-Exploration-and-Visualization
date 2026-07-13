@@ -202,7 +202,7 @@ Continue investing in movies while selectively expanding high-performing TV Show
 
 ## 4️⃣ Content Added Per Year
 
-![Top Countries](Countent_added_per_year.png)
+![Content Added](images/Countent_added_per_year.png)
 
 ### Observation
 
@@ -256,7 +256,7 @@ Maintain a balanced mix of standard and niche-length content.
 
 ## 7️⃣ Rating Distribution
 
-![Top Countries](Rating_distribution.png)
+![Ratings](images/Ratings_distribution.png)
 
 ### Observation
 
