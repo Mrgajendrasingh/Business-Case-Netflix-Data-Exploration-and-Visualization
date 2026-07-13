@@ -148,9 +148,7 @@ Each visualization includes:
 
 ## 1️⃣ Top Countries
 
-<p align="center">
-  <img src="images/top_countries.png" width="900">
-</p>
+![Top Countries](images/top_countries.png)
 
 ### Observation
 
