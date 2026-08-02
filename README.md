@@ -256,7 +256,7 @@ Maintain a balanced mix of standard and niche-length content.
 
 ## 7️⃣ Rating Distribution
 
-![Ratings](images/Ratings_distribution.png)
+![Ratings](Images/Rating_distribution.png)
 
 ### Observation
 
