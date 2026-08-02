@@ -202,7 +202,7 @@ Continue investing in movies while selectively expanding high-performing TV Show
 
 ## 4️⃣ Content Added Per Year
 
-![Content Added](Images/Content_added_per_year.png)
+![Content Added](Images/Countent_added_per_year.png)
 
 ### Observation
 
